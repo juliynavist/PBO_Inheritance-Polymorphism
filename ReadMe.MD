@@ -23,11 +23,12 @@ Bentuk
 - Silinder: `Silinder warna [warna], volume = [volume]`
 
 ## Contoh Output
-Bentuk berwarna merah
-Bujursangkar berwarna biru, luas = 25.0
-Lingkaran hijau, luas = 153.93804002589985
-Silinder warna kuning, volume = 1539.3804002589986
-Bujursangkar berwarna hitam, luas = 64.0
+Bentuk berwarna [merah]
+Bujursangkar berwarna [kuning], luas = [25.0]
+Lingkaran [hijau], luas = [314.0]
+Silinder warna [biru], volume = [785.0]
+
+Bujursangkar berwarna [ungu], luas = [64.0]
 
 ## Struktur File
 .
