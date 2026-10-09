@@ -2,10 +2,13 @@
 Latihan tentang pewarisan kelas (Exercise 1, 2, dan 3).
 
 ## Hierarki Kelas
+
+```
 Bentuk
 ├── BujurSangkar
 └── Lingkaran
     └── Silinder
+```
 
 ## Daftar Kelas
 
@@ -17,6 +20,7 @@ Bentuk
 | `Silinder` | `Lingkaran` | `tinggi` | `getTinggi()`, `setTinggi()`, `hitungVolume()`, `printInfo()` |
 
 ## Format Output `printInfo()`
+
 - Bentuk: `Bentuk berwarna [warna]`
 - BujurSangkar: `Bujursangkar berwarna [warna], luas = [luas]`
 - Lingkaran: `Lingkaran [warna], luas = [luas]`
@@ -31,6 +35,8 @@ Silinder warna [biru], volume = [785.0]
 Bujursangkar berwarna [ungu], luas = [64.0]
 
 ## Struktur File
+
+```
 .
 ├── Bentuk.java
 ├── BujurSangkar.java
@@ -38,3 +44,4 @@ Bujursangkar berwarna [ungu], luas = [64.0]
 ├── Silinder.java
 ├── Main.java        # program demo
 └── README.md
+```
